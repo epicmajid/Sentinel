@@ -123,5 +123,5 @@ To deliver maximum portability and quick startup times, the binary package is op
 This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
 
 <div align="center">
-  <sub>Engineered with ⚡ & ❤️ by <a href="https://github.com/epicmajid">@epicmajid</a></sub>
+  <sub>Engineered  by <a href="https://github.com/epicmajid">@epicmajid</a></sub>
 </div>
